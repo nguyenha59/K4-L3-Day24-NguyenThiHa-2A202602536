@@ -1,0 +1,12 @@
+Command: C:\Users\Admin\K4-L3-Day24-NguyenThiHa-2A202602536\.venv\Scripts\python.exe C:\Users\Admin\K4-L3-Day24-NguyenThiHa-2A202602536\.tools\download-gitleaks.py
+Working directory: C:\Users\Admin\K4-L3-Day24-NguyenThiHa-2A202602536
+
+Official release: https://github.com/gitleaks/gitleaks/releases/tag/v8.30.1
+Asset: gitleaks_8.30.1_windows_x64.zip
+Checksum file: gitleaks_8.30.1_checksums.txt
+SHA-256 expected: d29144deff3a68aa93ced33dddf84b7fdc26070add4aa0f4513094c8332afc4e
+SHA-256 observed: d29144deff3a68aa93ced33dddf84b7fdc26070add4aa0f4513094c8332afc4e
+Checksum verification: PASS
+Executable: C:\Users\Admin\K4-L3-Day24-NguyenThiHa-2A202602536\.tools\gitleaks\gitleaks.exe
+
+Exit code: 0

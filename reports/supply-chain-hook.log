@@ -1,0 +1,6 @@
+Command: C:\Users\Admin\K4-L3-Day24-NguyenThiHa-2A202602536\.venv\Scripts\python.exe -m pre_commit run --all-files
+Working directory: C:\Users\Admin\K4-L3-Day24-NguyenThiHa-2A202602536
+
+Detect hardcoded secrets.................................................Passed
+
+Exit code: 0

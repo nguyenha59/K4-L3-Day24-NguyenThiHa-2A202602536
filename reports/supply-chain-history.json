@@ -1,0 +1,23 @@
+[
+ {
+  "RuleID": "lab24-synthetic-token",
+  "Description": "A deliberately invalid lab token; never use real credentials",
+  "StartLine": 1,
+  "EndLine": 1,
+  "StartColumn": 1,
+  "EndColumn": 44,
+  "Match": "REDACTED",
+  "Secret": "REDACTED",
+  "File": "lab-fake-secret.txt",
+  "SymlinkFile": "",
+  "Commit": "1bdd849922156c868a5ee9293d68f5b72e242d2c",
+  "Link": "https://github.com/nguyenha59/K4-L3-Day24-NguyenThiHa-2A202602536/blob/1bdd849922156c868a5ee9293d68f5b72e242d2c/lab-fake-secret.txt#L1",
+  "Entropy": 4.6009216,
+  "Author": "VinUni AI20k Lab",
+  "Email": "lab@users.noreply.github.com",
+  "Date": "2026-10-09T16:22:06Z",
+  "Message": "chore: seed student lab with synthetic secret exercise",
+  "Tags": [],
+  "Fingerprint": "1bdd849922156c868a5ee9293d68f5b72e242d2c:lab-fake-secret.txt:lab24-synthetic-token:1"
+ }
+]

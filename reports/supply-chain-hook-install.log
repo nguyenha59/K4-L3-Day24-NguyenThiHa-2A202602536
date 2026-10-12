@@ -1,0 +1,6 @@
+Command: C:\Users\Admin\K4-L3-Day24-NguyenThiHa-2A202602536\.venv\Scripts\python.exe -m pre_commit install
+Working directory: C:\Users\Admin\K4-L3-Day24-NguyenThiHa-2A202602536
+
+pre-commit installed at .git\hooks\pre-commit
+
+Exit code: 0

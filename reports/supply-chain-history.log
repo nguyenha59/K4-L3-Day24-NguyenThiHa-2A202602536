@@ -1,0 +1,28 @@
+Command: C:\Users\Admin\K4-L3-Day24-NguyenThiHa-2A202602536\.tools\gitleaks\gitleaks.exe git --config .gitleaks.toml --redact --no-color --verbose --report-format json --report-path reports/supply-chain-history.json .
+Working directory: C:\Users\Admin\K4-L3-Day24-NguyenThiHa-2A202602536
+
+
+    ○
+    │╲
+    │ ○
+    ○ ░
+    ░    gitleaks
+
+Finding:     REDACTED
+Secret:      REDACTED
+RuleID:      lab24-synthetic-token
+Entropy:     4.600922
+File:        lab-fake-secret.txt
+Line:        1
+Commit:      1bdd849922156c868a5ee9293d68f5b72e242d2c
+Author:      VinUni AI20k Lab
+Email:       lab@users.noreply.github.com
+Date:        2026-10-09T16:22:06Z
+Fingerprint: 1bdd849922156c868a5ee9293d68f5b72e242d2c:lab-fake-secret.txt:lab24-synthetic-token:1
+Link:        https://github.com/nguyenha59/K4-L3-Day24-NguyenThiHa-2A202602536/blob/1bdd849922156c868a5ee9293d68f5b72e242d2c/lab-fake-secret.txt#L1
+
+10:37PM INF 4 commits scanned.
+10:37PM INF scanned ~138240 bytes (138.24 KB) in 220ms
+10:37PM WRN leaks found: 1
+
+Exit code: 1

@@ -1,0 +1,34 @@
+[
+  {
+    "variant": 1,
+    "phase": "before",
+    "principal": "dpo",
+    "sink_bytes": 298,
+    "victim_leaked": true,
+    "ledger_valid": null
+  },
+  {
+    "variant": 2,
+    "phase": "before",
+    "principal": "dpo",
+    "sink_bytes": 298,
+    "victim_leaked": true,
+    "ledger_valid": null
+  },
+  {
+    "variant": 3,
+    "phase": "before",
+    "principal": "dpo",
+    "sink_bytes": 298,
+    "victim_leaked": true,
+    "ledger_valid": null
+  },
+  {
+    "variant": 4,
+    "phase": "before",
+    "principal": "dpo",
+    "sink_bytes": 298,
+    "victim_leaked": true,
+    "ledger_valid": null
+  }
+]

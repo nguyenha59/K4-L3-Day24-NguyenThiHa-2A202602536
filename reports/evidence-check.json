@@ -1,0 +1,19 @@
+{
+  "required_artifacts": 20,
+  "synthetic_baseline_verified": true,
+  "attack_before_bytes": 299,
+  "attack_after_bytes": 0,
+  "ledger_entries": 50,
+  "ledger_valid": true,
+  "http_post_deny_lines": [
+    25,
+    50
+  ],
+  "all_replay_ledgers_valid": true,
+  "after_replays": 8,
+  "raw_pii_in_ledgers": false,
+  "split_lure_individually_inert": true,
+  "split_lure_combined_active": true,
+  "tampered_middle_line": 26,
+  "tampered_ledger_valid": false
+}
